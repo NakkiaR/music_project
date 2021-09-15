@@ -120,3 +120,4 @@ try:
     from music_project.local_settings import * 
 except ImportError:
     pass
+
